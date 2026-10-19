@@ -130,3 +130,11 @@ movies.csv
 
 Projeto desenvolvido para fins educacionais, com foco em demonstrar
 conceitos de scraping e concorrência em Python.
+
+## Autor
+
+Herick Gomes
+
+## Exercício da EBAC
+
+Projeto de Python Avançado desenvolvido durante o curso Full Stack Python da EBAC.
